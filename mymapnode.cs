@@ -75,4 +75,3 @@ namespace HashTableProblem
         }
     }
 }
-© 2021 GitHub, Inc.
